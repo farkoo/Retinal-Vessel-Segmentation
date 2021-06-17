@@ -5,7 +5,7 @@
 * Extract green channel
 * CLAHE contrast enhancement  
 <p align=center>
-<img src="https://github.com/farkoo/Retinal-Vessel-Segmentation/blob/master/Figure1.png">
+<img src="https://github.com/farkoo/Retinal-Vessel-Segmentation/blob/master/figure1.png">
 </p>
 
 * Replace black ring
