@@ -1,5 +1,11 @@
 # Retinal-Vessel-Segmentation
 
+The DRIVE database has been established to enable comparative studies on segmentation of blood vessels in retinal images. Retinal vessel segmentation and delineation of morphological attributes of retinal blood vessels, such as length, width, tortuosity, branching patterns and angles are utilized for the diagnosis, screening, treatment, and evaluation of various cardiovascular and ophthalmologic diseases such as diabetes, hypertension, arteriosclerosis and chorodial neovascularization.
+
+In this repository i implement a system for segment blood vessel from this images.
+
+# Steps
+
 ## Preprocessing:
 * Extract mask image
 * Extract green channel
@@ -33,3 +39,8 @@
 <img src="https://github.com/farkoo/Retinal-Vessel-Segmentation/blob/master/Figure4.png">
 </p>
 
+# Final Results
+My results for 20 test images:
+<p align=center>
+<img src="https://github.com/farkoo/Retinal-Vessel-Segmentation/blob/master/Figure5.png">
+</p>
