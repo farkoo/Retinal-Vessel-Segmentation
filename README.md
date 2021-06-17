@@ -36,7 +36,7 @@ In this repository i implement a system for extract blood vessel from DRIVE imag
 * Red: one in mr and zero in gt
 * Purple: Zero in mr and one in gt
 <p align=center>
-<img src="https://github.com/farkoo/Retinal-Vessel-Segmentation/blob/master/Figure4.png">
+<img src="https://github.com/farkoo/Retinal-Vessel-Segmentation/blob/master/figure4.png">
 </p>
 
 # Final Results
