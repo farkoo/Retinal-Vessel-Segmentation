@@ -2,7 +2,7 @@ function [Se, Sp, Acc, Dice] = retinal_vessel_seg(image,manual)
 
     im_rgb = im2double(image);
     
-    % Create mask base on RGB image
+    % Create mask base on RGB image vv
     im_mask = im_rgb(:,:,2) > (20/255);
     im_mask = double(imerode(im_mask, strel('disk',3)));
     
