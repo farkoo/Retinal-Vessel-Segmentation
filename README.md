@@ -1,15 +1,26 @@
 # Retinal-Vessel-Segmentation
 
+## Preprocessing:
+* Extract mask image
+* Extract green channel
+* CLAHE contrast enhancement  
 <p align=center>
 <img src="https://github.com/farkoo/Retinal-Vessel-Segmentation/blob/master/Figure1.png">
 </p>
 
+* Replace black ring
+* Top-hat transform
 
+## Vessel Extraction
+* Otsu thresholding
+* Remove small regions
 <p align=center>
 <img src="https://github.com/farkoo/Retinal-Vessel-Segmentation/blob/master/Figure2.png">
 </p>
 
-
+* Thick vessel extraction
+* Thin vessel extraction
+* Create the final image using the last two images
 <p align=center>
 <img src="https://github.com/farkoo/Retinal-Vessel-Segmentation/blob/master/Figure3.png">
 </p>
