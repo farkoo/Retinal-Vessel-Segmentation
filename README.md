@@ -2,7 +2,7 @@
 
 The DRIVE database has been established to enable comparative studies on segmentation of blood vessels in retinal images. Retinal vessel segmentation and delineation of morphological attributes of retinal blood vessels, such as length, width, tortuosity, branching patterns and angles are utilized for the diagnosis, screening, treatment, and evaluation of various cardiovascular and ophthalmologic diseases such as diabetes, hypertension, arteriosclerosis and chorodial neovascularization.
 
-In this repository i implement a system for extract blood vessel from DRIVE images.
+In this repository, I implement a system for extract blood vessels from DRIVE images.
 
 # Steps
 
